@@ -1,0 +1,4 @@
+Oleg 5000 ruble 5
+Egor 3000 dollar 3
+Vlad 4000 euro 4
+Uzbek 2000 ruble 2
